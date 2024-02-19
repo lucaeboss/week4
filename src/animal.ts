@@ -1,5 +1,5 @@
 export class Animal {
-    static species = "Animalia"; // Class variable
+    static species = "Animalia"; 
   
     constructor(public name: string, public age: number) {}
   
